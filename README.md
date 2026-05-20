@@ -15,5 +15,11 @@ Prolaz - Pamti trenutno prikazano vrijeme i ispisuje ga ispod displeja u nizu
 - Button
 - LCD display
 
+## Screenshot
+<img width="634" height="112" alt="image" src="https://github.com/user-attachments/assets/edf53475-e501-406b-ab18-bfb58a352d80" />
+
+
 ## Autor
 Suljo Suljić
+
+
